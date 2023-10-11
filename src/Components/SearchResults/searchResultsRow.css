@@ -1,0 +1,21 @@
+button {
+  background-color: coral;
+  border: none;
+  color: #eee;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  width: 100px;
+  border-radius: 20px !important;
+}
+table {
+  color: coral !important;
+}
+.thumbnail-img {
+  max-height: 55px;
+  max-width: 20px;
+  cursor: pointer;
+}
